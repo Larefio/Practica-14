@@ -45,7 +45,7 @@ export const pelis = [
 		img: 'https://image.tmdb.org/t/p/w300/bqOqQ2Tawum3eHKNrc94P4EeaZB.jpg',
 		titulo: 'Avatar: El camino del agua',
 		genero: 'Acción, Aventura, Ciencia ficción',
-		descripcion: 'Más de una década después de los acontecimientos de Avatar, los Navi Jake Sully, Neytiri y sus hijos viven en paz en los bosques de Pandora hasta que regresan los hombres del cielo.',
+		descripcion: 'Más de una década después de los acontecimientos de Avatar, los Navi Jake Sully, Neytiri y sus hijos viven en paz en los bosques de Pandora hasta que regresan los homes del cielo.',
 		id: 7,
 	},
 	{
